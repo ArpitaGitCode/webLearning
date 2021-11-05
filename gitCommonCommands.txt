@@ -2,4 +2,6 @@ git clone url of that repository(https://github.com/ArpitaGitCode/webLearning.gi
 git status
 git add . (dot means add all files) or add specified file with file name
 git commit -m "commit message"
+some new changes added.
 git push
+some more changes added for testing
