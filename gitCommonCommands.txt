@@ -1,7 +1,9 @@
+conflict
 git clone url of that repository(https://github.com/ArpitaGitCode/webLearning.git). do your work in cloned directory.
 git status
+conflict 
 git add . (dot means add all files) or add specified file with file name
 git commit -m "commit message"
-some new changes added.
 git push
-some more changes added for testing
+conflict
+conflict
