@@ -1,0 +1,3 @@
+git clone url of that repository.
+do your work in cloned directory.
+
