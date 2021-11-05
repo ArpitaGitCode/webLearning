@@ -1,0 +1,33 @@
+.color-1.color-2.color-3{
+    color: green;
+}
+h1.color-1.color-2.color-3{
+    color:violet
+}
+h1{
+    color: red;
+}
+h1{
+    color: green;
+}
+h1{
+    color: blue;
+}
+#id-color-1{
+    color: yellow;
+}
+
+.color-3{
+    color: pink;
+}
+
+.color-2{
+    color: purple
+}
+.color-1{
+    color: gray;
+}
+
+h1{
+    color: black !important;
+}
