@@ -6,4 +6,21 @@ git add . (dot means add all files) or add specified file with file name
 git commit -m "commit message"
 git push
 conflict
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 conflict
