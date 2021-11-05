@@ -1,3 +1,5 @@
-git clone url of that repository.
-do your work in cloned directory.
-
+git clone url of that repository(https://github.com/ArpitaGitCode/webLearning.git). do your work in cloned directory.
+git status
+git add . (dot means add all files) or add specified file with file name
+git commit -m "commit message"
+git push
